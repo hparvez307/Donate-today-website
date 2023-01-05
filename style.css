@@ -90,7 +90,7 @@ nav li{
     gap: 10px;
     margin: 15px;
     font-weight: 700;
-    position: ;
+    
     color: gray;
     border-radius: 10px;
 }
@@ -109,4 +109,131 @@ nav li{
 }
 .hrsec3{
     margin: 20px 65px;
+}
+.btn-sec3{
+    background-color: #f02f50;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    color: aliceblue;
+}
+.sec4-title{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 40px;
+
+}
+.sec4-summary{
+    text-align: center;
+    color: gray;
+    margin-top: 20px;
+}
+.plan{
+    display: flex;
+    justify-content: space-around;
+    margin: 5px 100px ;
+    padding: 50px;
+    gap: 20px;
+    
+}
+.plan-item{
+    padding: 40px;
+    border-radius: 10px;
+    
+    
+}
+.plan-item1{
+   
+
+    background-color: #a7e9dee1;
+    
+}
+.plan-item2{
+   
+
+    background-color: #e28fdebe;
+    
+}
+.plan-item3{
+   
+    height: fit-content;
+    background-color: #e7a9d5c2;
+    
+}
+.plan-item-img{
+    margin-top: 30px;
+
+}
+.plan-item-title{
+    margin: 30px 0;
+}
+.sec55{
+    margin: 40px 80px;
+}
+
+.sec5-item{
+    display: flex;
+    justify-content: space-around;
+}
+.sec5-item-content{
+    align-items: center;
+    width: 50%;
+    margin: auto;
+    padding: 60px;
+}
+.sec5img{
+     height: 500px;
+     width: 500px;
+     border-radius: 10px;
+}
+.sec5-title{
+    font-size: 50px;
+    font-weight: 700;
+}
+.sec5-details{
+   font-size: 20px;
+   margin: 25px 0;
+}
+.btn-sec5{
+    background-color: #f02f50;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    color: aliceblue;
+}
+.sec6-title{
+    text-align: center;
+    font-size: 50px;
+    margin: 30px 0;
+}
+.sec6-dt{
+    width: 800px;
+   margin:auto;
+   margin-bottom: 30px;
+}
+.newslatter{
+    margin: 15px 200px;
+    background-color: rgba(209, 124, 191, 0.904);
+    padding: 70px 250px;
+    
+}
+.newsc{
+    display: flex;
+    height: 40px;
+    
+    
+}
+.newsbtn{
+    background-color: #f02f50;
+    color: aliceblue;
+    font-size: 20px;
+    border: none;
+  
+}
+.newinput{
+    width: 100%;
 }
